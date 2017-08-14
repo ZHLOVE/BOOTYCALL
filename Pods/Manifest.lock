@@ -1,0 +1,32 @@
+PODS:
+  - AVOSCloud (3.3.5)
+  - EaseMobSDK (2.2.6)
+  - Masonry (1.0.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - EaseMobSDK (from `https://github.com/easemob/sdk-ios-cocoapods.git`)
+  - Masonry
+  - SDWebImage
+
+EXTERNAL SOURCES:
+  EaseMobSDK:
+    :git: https://github.com/easemob/sdk-ios-cocoapods.git
+
+CHECKOUT OPTIONS:
+  EaseMobSDK:
+    :commit: 9ec6ab71dbb91bff7dc7eef7c73f227ba6f24b26
+    :git: https://github.com/easemob/sdk-ios-cocoapods.git
+
+SPEC CHECKSUMS:
+  AVOSCloud: 1fe170768bee7e05bc3ea86e38d5bddb105cb957
+  EaseMobSDK: 52711b765870c8e48637fc4057335468601fe849
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+
+PODFILE CHECKSUM: b2a3d30ff577482a11044c5aa0046b649b630645
+
+COCOAPODS: 1.0.1
